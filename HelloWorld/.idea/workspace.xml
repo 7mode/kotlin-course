@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d49df23e-e922-4a5c-adee-2cc898ca8ef3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YyL2ToKEDnsYdAJXUK8dIiU3uX" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/learning/course/helloworld" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/learning/course/helloworld" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/learning/course/helloworld" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="learning.course.helloworld.HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="learning.course.helloworld.HelloWorldKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.learning.course.helloworld.HelloWorldKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d49df23e-e922-4a5c-adee-2cc898ca8ef3" name="Default Changelist" comment="" />
+      <created>1583909679831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583909679831</updated>
+      <workItem from="1583909685176" duration="1624000" />
+      <workItem from="1583994810474" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1583915246871">
+      <screen x="-1169" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-1169.-1080.1920.1080/751.-1080.1920.1080@-1169.-1080.1920.1080" timestamp="1583915246871" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1583915246868">
+      <screen x="-1169" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-1169.-1080.1920.1080/751.-1080.1920.1080@-1169.-1080.1920.1080" timestamp="1583915246868" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1583915246867">
+      <screen x="-1169" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-1169.-1080.1920.1080/751.-1080.1920.1080@-1169.-1080.1920.1080" timestamp="1583915246867" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1583915246870">
+      <screen x="-1169" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-1169.-1080.1920.1080/751.-1080.1920.1080@-1169.-1080.1920.1080" timestamp="1583915246870" />
+    <state x="97" y="176" key="new project wizard" timestamp="1583995043871">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="97" y="176" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583995043871" />
+  </component>
+</project>
