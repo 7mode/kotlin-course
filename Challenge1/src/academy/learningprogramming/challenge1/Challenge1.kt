@@ -20,4 +20,10 @@ fun main(args: Array<String>) {
         | 111
         |1111  
     """.trimMargin())
+
+    println("""1   1
+        1  11
+        1 111
+        11111  
+    """.trimMargin("1"))
 }
