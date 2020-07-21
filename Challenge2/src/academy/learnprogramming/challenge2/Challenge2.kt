@@ -1,9 +1,9 @@
 package academy.learnprogramming.challenge2
 
 fun main(args: Array<String>) {
-    val float1: Float? = -3847.384F
+    val float1: Float? = -3847.384f
     val float2: Float? = -3847.384F
-    val float3: Float? = -3847.384.toFloat()
+    val float3: Float? = (-3847.384).toFloat()
 
     val shortArray = shortArrayOf(1, 2, 3, 4, 5)
     val shortArray2: Array<Short> = arrayOf(1, 2, 3, 4, 5)
@@ -16,4 +16,5 @@ fun main(args: Array<String>) {
     val z = x?.toLowerCase() ?: "I give up"
 
     x?.let { it.toLowerCase().replace("am", "am not") }
+    x?.toLowerCase()?.replace("am", "am not")
 }
