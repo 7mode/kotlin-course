@@ -1,8 +1,8 @@
 package academy.learnprogramming.challenge6
 
 fun main(args: Array<String>) {
-     for (i in 5..5000 step 5) println(i)
-     for (i in -500..0) println(i)
+    for (i in 5..5000 step 5) println(i)
+    for (i in -500..0) println(i)
     var total: Int
     var secondToLast = 0
     var last = 1
@@ -31,7 +31,7 @@ fun main(args: Array<String>) {
     val num = 100
     println(if (num < 100) {
         -234.567
-    } else if (num > 100 ) {
+    } else if (num > 100) {
         4444.555
     } else {
         0.0

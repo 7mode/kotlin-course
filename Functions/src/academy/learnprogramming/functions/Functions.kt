@@ -1,5 +1,7 @@
 package academy.learnprogramming.functions
 
+import academy.learnprogramming.utils.Utils
+
 fun main(args: Array<String>) {
     println(labelMultiply(3, 4, "The result is:"))
 
@@ -23,6 +25,18 @@ fun main(args: Array<String>) {
     for (c in lotsOfCar) {
         println(c)
     }
+
+    println(Utils().upperFirstAndLast("this is all lowercase string"))
+
+
+    val s = "this is all lowercase string" // receiver object
+    println(s.upperFirstAndLast())
+}
+
+fun String.upperFirstAndLast(): String { // the class String is the reciever
+    val upperFirst = this.substring(0, 1).toUpperCase() + this.substring(1)
+    return upperFirst.substring(0, upperFirst.length - 1) +
+            upperFirst.substring(upperFirst.length - 1, upperFirst.length).toUpperCase()
 }
 
 fun printColors(vararg cars: Car) {
